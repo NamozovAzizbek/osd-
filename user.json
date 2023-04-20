@@ -1,0 +1,11 @@
+[
+    {
+      "id": "Admin",
+      "roles": ["admin"]
+    },
+    {
+      "id": "Azizbek",
+      "roles": ["developer"]
+    }
+  ]
+  

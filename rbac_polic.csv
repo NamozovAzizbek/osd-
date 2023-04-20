@@ -1,0 +1,5 @@
+p, admin, read, gather
+p, admin, write, consume
+p, admin, delete, destroy
+p, developer, read gather
+g, admin, developer
