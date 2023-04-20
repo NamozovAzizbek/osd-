@@ -1,0 +1,11 @@
+{
+    "developer": {
+      "gather": ["read"]
+    },
+    "admin": {
+      "gather": ["read", "write", "delete"],
+      "consume": ["read", "write", "delete"],
+      "desroy": ["read", "write", "delete"]
+    }
+  }
+  
